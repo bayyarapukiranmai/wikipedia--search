@@ -1,0 +1,25 @@
+#container{
+  text-align: left;
+  
+
+}
+ul{
+  list-style: none;
+}
+#form{
+  margin-bottom: 5px ;
+
+}
+button{
+  background-color: green;
+  
+  
+}
+li{
+  background-color: #f9f9f9;
+padding: 2px;
+margin-bottom: 5px;  
+}
+#hi{
+  text-shadow:1px 1px ;
+}
